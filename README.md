@@ -75,10 +75,10 @@ FROM sales;
 
 👨‍💻 Author
 
-`Kevin Lazarus`
-`M.Sc. Data Science`
-`Bishop Heber College`
-`Trichy`
+# Kevin Lazarus
+# M.Sc. Data Science
+# Bishop Heber College
+# Trichy
 
 
 
