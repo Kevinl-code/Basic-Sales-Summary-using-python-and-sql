@@ -40,9 +40,11 @@ git clone https://github.com/Kevinl-code/Basic-Sales-Summary-using-python-and-sq
 cd Basic-Sales-Summary-using-python-and-sql
 ```
 2. Install required Python libraries
-   ```bash
+
+```bash
    pip install pandas matplotlib
-   ```
+```
+
 3️. Run the script
    ```bash
   python sales_summary.py
